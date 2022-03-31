@@ -1,0 +1,46 @@
+body{
+  background-color: wheat
+}
+h1::first-letter{
+  font-size: 200%;
+  color:teal;}
+  #m{
+    text-align: center;
+    color:orange;
+  }
+#mambo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:500px;
+}
+#mambo:hover{
+  transform: scale(1.1);
+}
+#look{text-align: center;
+color: teal
+}
+#mumina{text-align: center;
+color: teal;
+}
+#mumina:hover{
+  color:teal;
+}
+#joker{
+  position: relative;
+  left:910px;
+  background-color: orange 
+  }
+  #joker:hover{
+  background-color: teal;
+  }
+.jibo{
+  color: orange;
+  text-align: center;
+}
+.mumina{
+  list-style: none;
+}
+.mumina:hover{
+  color: teal;
+}
